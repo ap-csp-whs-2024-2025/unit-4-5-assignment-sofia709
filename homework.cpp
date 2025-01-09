@@ -8,6 +8,8 @@ void displayList(std::vector<T> const &v);
 int main()
 {
     // You can follow along with any code in class here
+    std:: vector <int> intlist={10,20,30,40}
+    std:: vector <double> doublelist={1.1,2.2,3.3}
 
     
     return 0;
